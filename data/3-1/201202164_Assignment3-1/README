@@ -1,0 +1,10 @@
+							Assignment 3 (AI)
+
+Name: Mohit Jain
+Roll No: 201256053
+
+The folders match1,match2....match5 contain data fetched from the cricinfo website using the build.py script.
+
+Run the Assignment3-1.py file to run the code.
+
+Enter the query and it gives you the answer by itering through its database.

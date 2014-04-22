@@ -1,0 +1,83 @@
+ASSIGNMENT 3 - ARTIFICIAL INTELLIGENCE
+
+Name: Devansh Shah
+Roll No: 201256053
+
+HOW TO RUN:
+
+Run ./part1-1
+Run ./part1-2
+Run ./part2-1
+Run ./part2-2
+
+REFERENCES: 
+
+1) Functions from Sample code on Courses portal.
+2) NTLK Documentation
+
+DIRECTORY STRUCTURE:
+
+.
+├── 10.py
+├── 11.py
+├── 12.py
+├── 13.py
+├── 14.py
+├── 15.py
+├── 16.py
+├── 17.py
+├── 18.py
+├── 19.py
+├── 1.py
+├── 20.py
+├── 2.py
+├── 3.py
+├── 4.py
+├── 5.py
+├── 6.py
+├── 7.py
+├── 8.py
+├── 9.py
+├──
+├── build.py
+├── common.py
+├── common.pyc
+├── dataset
+│   ├── build.py
+│   ├── match1
+│   │   ├── 11bat.txt
+│   │   ├── 11bowl.txt
+│   │   ├── 12bat.txt
+│   │   ├── 12bowl.txt
+│   │   └── details.txt
+│   ├── match2
+│   │   ├── 21bat.txt
+│   │   ├── 21bowl.txt
+│   │   ├── 22bat.txt
+│   │   ├── 22bowl.txt
+│   │   └── details.txt
+│   ├── match3
+│   │   ├── 31bat.txt
+│   │   ├── 31bowl.txt
+│   │   ├── 32bat.txt
+│   │   ├── 32bowl.txt
+│   │   └── details.txt
+│   ├── match4
+│   │   ├── 41bat.txt
+│   │   ├── 41bowl.txt
+│   │   ├── 42bat.txt
+│   │   ├── 42bowl.txt
+│   │   └── details.txt
+│   ├── match5
+│   │   ├── 51bat.txt
+│   │   ├── 51bowl.txt
+│   │   ├── 52bat.txt
+│   │   ├── 52bowl.txt
+│   │   └── details.txt
+│   └── player_profile
+│       ├── indian_players_profile.txt
+│       └── nz_players_profile.txt
+├── query1.py~
+├── README
+└── README~
+

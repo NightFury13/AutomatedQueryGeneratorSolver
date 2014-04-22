@@ -1,0 +1,5 @@
+KD Mills,9,1,50,1,5.55
+MJ McClenaghan,8,1,45,1,5.62,(1w)
+TG Southee,9,0,72,4,8.00,(1w)
+NL McCullum,8,0,40,0,5.00,(3w)
+CJ Anderson,7.3,0,67,3,8.93,(2w)

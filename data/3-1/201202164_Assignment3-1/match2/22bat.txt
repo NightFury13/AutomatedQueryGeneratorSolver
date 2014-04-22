@@ -1,0 +1,11 @@
+S Dhawan,b Southee,12,32,22,2,0,54.54
+RG Sharma,c †Ronchi b Southee,20,42,34,2,1,58.82
+V Kohli,c sub (AP Devcich) b Southee,78,88,65,7,2,120.00
+AM Rahane,c †Ronchi b McClenaghan,36,52,42,4,0,85.71
+MS Dhoni,c Williamson b Anderson,56,81,44,7,1,127.27
+SK Raina,c Southee b Mills,35,36,22,6,0,159.09
+RA Jadeja,b Anderson,12,20,8,0,1,150.00
+R Ashwin,c Guptill b Southee,5,7,4,1,0,125.00
+B Kumar,c NL McCullum b Anderson,11,9,6,2,0,183.33
+Mohammed Shami,not out,1,5,1,0,0,100.00
+I Sharma,not out,1,1,1,0,0,100.00
